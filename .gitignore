@@ -1,0 +1,45 @@
+# Debug files
+Debug/
+Release/
+
+# STM32CubeIDE specific
+.settings/
+[Rr]elease/
+[Dd]ebug/
+.metadata/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Other
+*.launch
+*.log 
